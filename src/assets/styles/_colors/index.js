@@ -1,0 +1,47 @@
+export const colors = {
+  //text colors
+  whiteText: '#fff',
+  primaryLightText: '#718EFF',
+  primaryText: '#2616FF',
+  primaryDarkText: '#093234',
+  secondaryLightText: '#838798',
+  secondaryText: '#272931',
+  secondaryDarkText: '#121317',
+  grayText: 'rgba(0,0,0,0.2)',
+  //background colors
+  whiteBackground: '#fff',
+  primaryLightBackground: '#718EFF',
+  primaryBackground: '#2616FF',
+  primaryDarkBackground: '#093234',
+  secondaryLightBackground: '#838798',
+  secondaryBackground: '#272931',
+  secondaryDarkBackground: '#121317',
+  gray1Background: 'rgba(0,0,0,0.1)',
+  grayBackground: 'rgba(0,0,0,0.2)',
+  gray3Background: 'rgba(0,0,0,0.3)',
+  gray4Background: 'rgba(0,0,0,0.4)',
+  gray5Background: 'rgba(0,0,0,0.5)',
+  gray6Background: 'rgba(0,0,0,0.6)',
+  bodyBackground: '#dedede',
+  redBackground: 'red',
+  transparentBackground: 'rgba(0,0,0,0)',
+  //border colors
+  whiteBorder: '#fff',
+  primaryLightBorder: '#718EFF',
+  primaryBorder: '#2616FF',
+  primaryDarkBorder: '#093234',
+  secondaryLightBorder: '#838798',
+  secondaryBorder: '#272931',
+  secondaryDarkBorder: '#121317',
+  grayBorder: 'rgba(0,0,0,0.2)',
+  redBorder: 'red',
+  //icon colors
+  primaryIcon: '#718EFF',
+  redIcon: 'red',
+  transparentBorder: 'rgba(0,0,0,0)',
+  //social
+  googleText: '#718EFF',
+  microsoftText: '#838798',
+  //box shadow color
+  boxShadowGray: 'rgba(0,0,0,.25)',
+};
